@@ -1,0 +1,13 @@
+{
+  "name": "thedoctorwho-project",
+  "version": "2.2.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+
+    "api": "json-server --watch scripts/models/bd.json --port=3011"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

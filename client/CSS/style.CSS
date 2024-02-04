@@ -1,0 +1,120 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: content-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    text-align: center;
+    width: 100%;
+}
+header{
+    background: linear-gradient(45deg, red, purple, blue, aqua);
+    
+}
+nav{
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+    grid-template-rows: repeat(2, 1fr);
+    align-items: center;
+}
+h1{
+    margin-left: -8vw;
+}
+h1:hover{
+    opacity: 0;
+    transition: 3s;
+}
+
+.logo{
+    width: 300px;
+    height:100px;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    align-items: center;
+    margin-left: -5vw;
+
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    font-weight: bold;
+    align-items: center;
+    margin-left: -8vw;
+    grid-column-start: 2;
+}
+
+nav ul li:hover{
+    cursor: pointer;
+    scale: 1.2;
+    color: red;
+    transition: 0.5s;
+}
+.nav__connection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.display{
+    display: none;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    row-gap: 15px;
+    padding-left: 5vw;
+    
+    
+    
+}
+.element{
+    width: 180px;
+    height: 200px;
+    border-radius: 50px;
+    object-fit: cover;
+
+}
+.element:hover{
+    cursor: pointer;
+    scale: 1.1;
+}
+
+table{
+    border: solid 3px black ;
+    border-radius: 10px;
+}
+table img{
+    width: 120px;
+    height: 100px;
+    object-fit: contain
+}
+#td{
+    background-color: white;
+    border: none;
+}
+
+.tr th{
+    background-color: gray;
+    border: solid 2px black;
+    
+}
+
+.tr0 td{
+    background-color: aqua;
+    border: solid 2px black;
+    text-align: center;
+}
+
+.tr1 td{
+    border: solid 1px black;
+    text-align: center;
+} 

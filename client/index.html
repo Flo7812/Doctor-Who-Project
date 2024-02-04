@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="./assets/images/Tardis.png" type="image/x-icon">
+    <link rel="stylesheet" href="./CSS/style.CSS">
+    <script type="module" src="./scripts/src/app.js"></script>
+    <title>The Dotctor Who - Project</title>
+</head>
+<body>
+    <header>
+        <nav class="nav">
+            <img class="logo" src="./assets/images/DoctorWhoLogo.png" alt="">
+            <h1>Welcome to the Doctor Who Project!</h1>
+            <div class="nav__status">
+                <span>isConnect</span>
+                <input type="checkbox" name="connected" id="connected"><br>
+                <span>pseudo :</span>
+            </div>
+            <ul>
+                <li class="nav__carousel">Carousel</li>
+                <li class="nav__liste">List</li>
+                <li class="nav__search">Search</li>
+                <li class="nav__contact">Contact</li>
+                <li class="nav__manage display">Manage</li>
+            </ul>
+            <div class="nav__connection">
+                <div>
+                    <button class="button__login"><a class="Login" href="./connexion.html">log In</a></button>
+                    <button class="button__signup"><a class="Login" href="./inscription.html">Sign Up</a></button>
+                </div>
+                <div>
+                    <button class="button__login display"><a class="Logout" href="./connexioon.html">log Out</a></button>
+                </div>
+            </div>
+
+        </nav>
+    </header>
+
+    <div class="liste__container display">
+        <h2>Liste</h2>
+        <div class="container"></div>
+    </div>
+
+    <div class="select__container display" >
+        <h2>Search</h2>
+        <label>Chercher Docteur par:</label>
+        <select>
+            <option value="choice">--Choisissez votre option--</option>
+            <option value="id">Id</option>
+            <option value="numDoctor">Numero Docteur</option>
+            <option value="seasons">Saisons</option>
+            <option value="actor">Actor</option>
+        </select>
+        <div class="form__search--container"></div>
+        <div class="table__container ">
+            <!-- <table></table> -->
+        </div>
+    </div>
+</body>
+</html>

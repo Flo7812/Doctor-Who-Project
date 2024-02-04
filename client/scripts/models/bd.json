@@ -1,0 +1,128 @@
+{
+    "Doctors": [
+        {
+            "id": 1,
+            "numDoctor": 1,
+            "actor": {
+                "lastName": "Hartnell",
+                "firstName": "Wiliam"
+            },
+            "seasons": [
+                1,
+                2,
+                3
+            ],
+            "image": "./assets/images/WilliamHartnell.png"
+        },
+        {
+            "id": 2,
+            "numDoctor": 12,
+            "actor": {
+                "lastName": "Capaldi",
+                "firstName": "Peter"
+            },
+            "seasons": [
+                4,
+                5,
+                6
+            ],
+            "image": "./assets/images/PeterCapaldi.png"
+        },
+        {
+            "id": 3,
+            "numDoctor": 13,
+            "actor": {
+                "lastName": "Wittlaker",
+                "firstName": "Jodie"
+            },
+            "seasons": [
+                7,
+                8,
+                9
+            ],
+            "image": "./assets/images/JodieWittlaker.png"
+        },
+        {
+            "id": 4,
+            "numDoctor": 15,
+            "actor": {
+                "lastName": "Gatwa",
+                "firstName": "Nguti"
+            },
+            "seasons": [
+                10,
+                11,
+                12
+            ],
+            "image": "./assets/images/NgutiGatwa.png"
+        },
+        {
+            "id": 5,
+            "numDoctor": 10,
+            "actor": {
+                "lastName": "Tennant",
+                "firstName": "David"
+            },
+            "seasons": [
+                13,
+                14
+                
+            ],
+            "image": "./assets/images/DavidTennant1.png"
+        },
+        {
+            "id": 6,
+            "numDoctor": 11,
+            "actor": {
+                "lastName": "Smith",
+                "firstName": "Matt"
+            },
+            "seasons": [
+                15,
+                16
+                
+            ],
+            "image": "./assets/images/MattSmith.png"
+        },
+        {
+            "id": 7,
+            "numDoctor": 8,
+            "actor": {
+                "lastName": "Eccleston",
+                "firstName": "Christopher"
+            },
+            "seasons": [
+                17,
+                18
+                
+            ],
+            "image": "./assets/images/ChristopherEccleston.png"
+        },
+        {
+            "id": 8,
+            "numDoctor": 8,
+            "actor": {
+                "lastName": "Dupont",
+                "firstName": "Willem"
+            },
+            "seasons": [
+                19,
+                20
+            ],
+            "image": "./assets/images/TardisSpace.png"
+        },
+        {
+            "id": 8,
+            "numDoctor": 14,
+            "actor": {
+                "lastName": "Tennant",
+                "firstName": "David"
+            },
+            "seasons": [
+                19,
+                20
+            ],
+            "image": "./assets/images/DavidTennant2.png"
+        }
+    ]
+  }

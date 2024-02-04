@@ -1,0 +1,575 @@
+{
+  "doctors": [
+    {
+      "number": 1,
+      "firstName": "William",
+      "lastName": "Hartnell",
+      "alive": false,
+      "birthDate": "1908-01-08",
+      "deathDate": "1975-04-23",
+      "imageURL": "url_1",
+      "era": {
+        "productionStudio": "BBC",
+        "startYear": 1963,
+        "endYear": 1989,
+        "doctorNumberInEra": 1,
+        "eraDuration": "1963-1989"
+      },
+      "companions": [
+        {
+          "characters": [
+            {
+              "firstName": "Susan",
+              "lastName": "Foreman"
+            }
+          ],
+          "actors": [
+            {
+              "firstName": "Carole Ann",
+              "lastName": "Ford"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        "Exterminate!"
+      ],
+      "seasons": [1, 2, 3]
+    },
+    {
+      "number": 2,
+      "firstName": "Patrick",
+      "lastName": "Troughton",
+      "alive": false,
+      "birthDate": "1920-03-25",
+      "deathDate": "1987-03-28",
+      "imageURL": "url_2",
+      "era": {
+        "productionStudio": "BBC",
+        "startYear": 1966,
+        "endYear": 1989,
+        "doctorNumberInEra": 2,
+        "eraDuration": "1966-1989"
+      },
+      "companions": [
+        {
+          "characters": [
+            {
+              "firstName": "Jamie",
+              "lastName": "McCrimmon"
+            }
+          ],
+          "actors": [
+            {
+              "firstName": "Frazer",
+              "lastName": "Hines"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        "There are some corners of the universe which have bred the most terrible things."
+      ],
+      "seasons": [4, 5, 6]
+    },
+    {
+      "number": 3,
+      "firstName": "Jon",
+      "lastName": "Pertwee",
+      "alive": false,
+      "birthDate": "1919-07-07",
+      "deathDate": "1996-05-20",
+      "imageURL": "url_3",
+      "era": {
+        "productionStudio": "BBC",
+        "startYear": 1970,
+        "endYear": 1989,
+        "doctorNumberInEra": 1,
+        "eraDuration": "1970-1989"
+      },
+      "companions": [
+        {
+          "characters": [
+            {
+              "firstName": "Jo",
+              "lastName": "Grant"
+            }
+          ],
+          "actors": [
+            {
+              "firstName": "Katy",
+              "lastName": "Manning"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        "Reverse the polarity of the neutron flow!"
+      ],
+      "seasons": [7, 8, 9, 10, 11]
+    },
+    {
+      "number": 4,
+      "firstName": "Tom",
+      "lastName": "Baker",
+      "alive": true,
+      "birthDate": "1934-01-20",
+      "imageURL": "url_4",
+      "era": {
+        "productionStudio": "BBC",
+        "startYear": 1974,
+        "endYear": 1981,
+        "doctorNumberInEra": 2,
+        "eraDuration": "1974-1981"
+      },
+      "companions": [
+        {
+          "characters": [
+            {
+              "firstName": "Sarah Jane",
+              "lastName": "Smith"
+            },
+            {
+              "firstName": "Harry",
+              "lastName": "Sullivan"
+            }
+          ],
+          "actors": [
+            {
+              "firstName": "Elisabeth",
+              "lastName": "Sladen"
+            },
+            {
+              "firstName": "Ian",
+              "lastName": "Marter"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        "Would you like a Jelly Baby?"
+      ],
+      "seasons": [12, 13, 14, 15, 16, 17]
+    },
+    {
+      "number": 5,
+      "firstName": "Peter",
+      "lastName": "Davison",
+      "alive": true,
+      "birthDate": "1951-04-13",
+      "imageURL": "url_5",
+      "era": {
+        "productionStudio": "BBC",
+        "startYear": 1982,
+        "endYear": 1984,
+        "doctorNumberInEra": 1,
+        "eraDuration": "1982-1984"
+      },
+      "companions": [
+        {
+          "characters": [
+            {
+              "firstName": "Adric",
+              "lastName": null
+            },
+            {
+              "firstName": "Nyssa",
+              "lastName": null
+            },
+            {
+              "firstName": "Tegan",
+              "lastName": "Jovanka"
+            }
+          ],
+          "actors": [
+            {
+              "firstName": "Matthew",
+              "lastName": "Waterhouse"
+            },
+            {
+              "firstName": "Sarah",
+              "lastName": "Sutton"
+            },
+            {
+              "firstName": "Janet",
+              "lastName": "Fielding"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        "Brave heart, Tegan!"
+      ],
+      "seasons": [18, 19, 20, 21]
+    },
+    {
+      "number": 6,
+      "firstName": "Colin",
+      "lastName": "Baker",
+      "alive": true,
+      "birthDate": "1943-06-08",
+      "imageURL": "url_6",
+      "era": {
+        "productionStudio": "BBC",
+        "startYear": 1984,
+        "endYear": 1986,
+        "doctorNumberInEra": 2,
+        "eraDuration": "1984-1986"
+      },
+      "companions": [
+        {
+          "characters": [
+            {
+              "firstName": "Peri",
+              "lastName": "Brown"
+            }
+          ],
+          "actors": [
+            {
+              "firstName": "Nicola",
+              "lastName": "Bryant"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        "Carrot juice, carrot juice, carrot juice!"
+      ],
+      "seasons": [22, 23, 24]
+    },
+    {
+      "number": 7,
+      "firstName": "Sylvester",
+      "lastName": "McCoy",
+      "alive": true,
+      "birthDate": "1943-08-20",
+      "imageURL": "url_7",
+      "era": {
+        "productionStudio": "BBC",
+        "startYear": 1987,
+        "endYear": 1989,
+        "doctorNumberInEra": 3,
+        "eraDuration": "1987-1989"
+      },
+      "companions": [
+        {
+          "characters": [
+            {
+              "firstName": "Mel",
+              "lastName": "Bush"
+            },
+            {
+              "firstName": "Ace",
+              "lastName": null
+            }
+          ],
+          "actors": [
+            {
+              "firstName": "Bonnie",
+              "lastName": "Langford"
+            },
+            {
+              "firstName": "Sophie",
+              "lastName": "Aldred"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        "Time and tide, Mel. Time and tide."
+      ],
+      "seasons": [24, 25, 26]
+    },
+    {
+      "number": 8,
+      "firstName": "Paul",
+      "lastName": "McGann",
+      "alive": true,
+      "birthDate": "1959-11-14",
+      "imageURL": "url_8",
+      "era": {
+        "productionStudio": "BBC",
+        "startYear": 1996,
+        "endYear": 2005,
+        "doctorNumberInEra": 1,
+        "eraDuration": "1996-2005"
+      },
+      "companions": [
+        {
+          "characters": [
+            {
+              "firstName": "Grace",
+              "lastName": "Holloway"
+            }
+          ],
+          "actors": [
+            {
+              "firstName": "Daphne",
+              "lastName": "Ashbrook"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        "I'm not a human being; I walk in eternity."
+      ],
+      "seasons": ["TV Movie"]
+    },
+    {
+      "number": 9,
+      "firstName": "Christopher",
+      "lastName": "Eccleston",
+      "alive": true,
+      "birthDate": "1964-02-16",
+      "imageURL": "url_9",
+      "era": {
+        "productionStudio": "BBC",
+        "startYear": 2005,
+        "endYear": 2005,
+        "doctorNumberInEra": 1,
+        "eraDuration": "2005"
+      },
+      "companions": [
+        {
+          "characters": [
+            {
+              "firstName": "Rose",
+              "lastName": "Tyler"
+            },
+            {
+              "firstName": "Jack",
+              "lastName": "Harkness"
+            },
+            {
+              "firstName": "Adam",
+              "lastName": "Mitchell"
+            }
+          ],
+          "actors": [
+            {
+              "firstName": "Billie",
+              "lastName": "Piper"
+            },
+            {
+              "firstName": "John",
+              "lastName": "Barrowman"
+            },
+            {
+              "firstName": "Bruno",
+              "lastName": "Langley"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        "Fantastic!"
+      ],
+      "seasons": [1]
+    },
+    {
+      "number": 10,
+      "firstName": "David",
+      "lastName": "Tennant",
+      "alive": true,
+      "birthDate": "1971-04-18",
+      "imageURL": "url_10",
+      "era": {
+        "productionStudio": "BBC",
+        "startYear": 2005,
+        "endYear": 2010,
+        "doctorNumberInEra": 2,
+        "eraDuration": "2005-2010"
+      },
+      "companions": [
+        {
+          "characters": [
+            {
+              "firstName": "Rose",
+              "lastName": "Tyler"
+            },
+            {
+              "firstName": "Martha",
+              "lastName": "Jones"
+            },
+            {
+              "firstName": "Donna",
+              "lastName": "Noble"
+            }
+          ],
+          "actors": [
+            {
+              "firstName": "Billie",
+              "lastName": "Piper"
+            },
+            {
+              "firstName": "Freema",
+              "lastName": "Agyeman"
+            },
+            {
+              "firstName": "Catherine",
+              "lastName": "Tate"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        "Allons-y!"
+      ],
+      "seasons": [2, 3, 4]
+    },
+    {
+      "number": 11,
+      "firstName": "Matt",
+      "lastName": "Smith",
+      "alive": true,
+      "birthDate": "1982-10-28",
+      "imageURL": "url_11",
+      "era": {
+        "productionStudio": "BBC",
+        "startYear": 2010,
+        "endYear": 2013,
+        "doctorNumberInEra": 3,
+        "eraDuration": "2010-2013"
+      },
+      "companions": [
+        {
+          "characters": [
+            {
+              "firstName": "Amy",
+              "lastName": "Pond"
+            },
+            {
+              "firstName": "Rory",
+              "lastName": "Williams"
+            }
+          ],
+          "actors": [
+            {
+              "firstName": "Karen",
+              "lastName": "Gillan"
+            },
+            {
+              "firstName": "Arthur",
+              "lastName": "Darvill"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        "Geronimo!"
+      ],
+      "seasons": [5, 6, 7]
+    },
+    {
+      "number": 12,
+      "firstName": "Peter",
+      "lastName": "Capaldi",
+      "alive": true,
+      "birthDate": "1958-04-14",
+      "imageURL": "url_12",
+      "era": {
+        "productionStudio": "BBC",
+        "startYear": 2013,
+        "endYear": 2017,
+        "doctorNumberInEra": 4,
+        "eraDuration": "2013-2017"
+      },
+      "companions": [
+        {
+          "characters": [
+            {
+              "firstName": "Clara",
+              "lastName": "Oswald"
+            },
+            {
+              "firstName": "Bill",
+              "lastName": "Potts"
+            },
+            {
+              "firstName": "Nardole",
+              "lastName": null
+            }
+          ],
+          "actors": [
+            {
+              "firstName": "Jenna",
+              "lastName": "Coleman"
+            },
+            {
+              "firstName": "Pearl",
+              "lastName": "Mackie"
+            },
+            {
+              "firstName": "Matt",
+              "lastName": "Lucas"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        "Shut up!"
+      ],
+      "seasons": [8, 9, 10]
+    },
+    {
+      "number": 13,
+      "firstName": "Jodie",
+      "lastName": "Whittaker",
+      "alive": true,
+      "birthDate": "1982-06-17",
+      "imageURL": "url_13",
+      "era": {
+        "productionStudio": "BBC",
+        "startYear": 2017,
+        "endYear": 2022,
+        "doctorNumberInEra": 5,
+        "eraDuration": "2017-2022"
+      },
+      "companions": [
+        {
+          "characters": [
+            {
+              "firstName": "Yasmin",
+              "lastName": "Khan"
+            },
+            {
+              "firstName": "Ryan",
+              "lastName": "Sinclair"
+            },
+            {
+              "firstName": "Graham",
+              "lastName": "O'Brien"
+            },
+            {
+              "firstName": "Dan",
+              "lastName": "Lewis"
+            }
+          ],
+          "actors": [
+            {
+              "firstName": "Mandip",
+              "lastName": "Gill"
+            },
+            {
+              "firstName": "Tosin",
+              "lastName": "Cole"
+            },
+            {
+              "firstName": "Bradley",
+              "lastName": "Walsh"
+            },
+            {
+              "firstName": "John",
+              "lastName": "Bishop"
+            }
+          ]
+        }
+      ],
+      "quotes": [
+        "Oh, brilliant!"
+      ],
+      "seasons": [11, 12, 13]
+    }
+  ]
+}
+
